@@ -9,6 +9,8 @@ assignees: ''
 
 ### Descripción
 
+### Criterios de aceptación.
+
 ### Tareas 
 
 -[ ]
